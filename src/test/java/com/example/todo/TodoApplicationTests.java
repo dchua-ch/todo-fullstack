@@ -30,7 +30,7 @@ class TodoApplicationTests {
 	void contextLoads() {
 	}
 
-	@Test
+	//@Test
 	@Order(2)
 	void testAddTodos() {
 
